@@ -3,10 +3,7 @@
     "name": "经验回归方程计算",
     "description": "帮助您完成繁琐的经验回归方程计算",
     "preview": [
-      "preview1.png",
-      "preview2.png",
-      "preview3.png",
-      "preview4.png"
+      "preview1.png"
     ],
     "icon": "logo.png",
     "source_url": "",
@@ -20,7 +17,7 @@
   "downloads": {
     "n67": {
       "version": "1.0.0",
-      "file_name": "com.Dreamqiu.feelingdiary.release.1.0.0.rpk"
+      "file_name": "com.Dreamqiu.Rcalculate.release.1.0.0.rpk"
     }
   }
 }
